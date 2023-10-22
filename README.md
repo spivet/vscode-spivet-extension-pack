@@ -33,3 +33,5 @@ Edit the `settings.json` file of `workspace`:
 * [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight) - highlight TODOs, FIXMEs, and any keywords, annotations...
 * [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) - EditorConfig Support for Visual Studio Code
 * [CodeStream: GitHub, GitLab, Bitbucket PRs and Code Review](https://marketplace.visualstudio.com/items?itemName=CodeStream.codestream) - GitHub pull requests, GitLab merge requests, and code reviews in your IDE. Eliminate context-switching between tools. Also integrates with Bitbucket, Slack, MS Teams, Jira, Trello and more.
+
+vscode token: vvgwauptanodzrtlotdviqstk4ygfco43i6ribe6mm2k5tl6uomq

@@ -2,13 +2,22 @@
   "name": "spivet-extension-pack",
   "displayName": "spivet extension pack",
   "description": "vscode extensions package for font-end development",
-  "version": "0.0.1",
+  "publisher": "Mcbai",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.83.0"
   },
   "categories": [
     "Extension Packs"
   ],
+  "repository": {
+      "url": "https://github.com/spivet/vscode-spivet-extension-pack"
+  },
+  "homepage": "https://github.com/spivet/vscode-spivet-extension-pack",
+  "scripts": {
+    "build": "vsce package",
+    "publish": "vsce publish"
+  },
   "extensionPack": [ 
     "github.copilot",
     "github.copilot-chat",
@@ -21,8 +30,6 @@
     "eamodio.gitlens", 
     "wayou.vscode-todo-highlight",
 
-    "antfu.vite",
-
     "zenclabs.previewjs",
     "antfu.unocss", 
 
@@ -30,7 +37,6 @@
     "stylelint.vscode-stylelint", 
 
     "dariofuzinato.vue-peek", 
-    "octref.vetur", 
     "sdras.vue-vscode-snippets", 
     "Vue.volar", 
     "Vue.vscode-typescript-vue-plugin", 
