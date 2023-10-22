@@ -1,0 +1,40 @@
+{
+  "name": "spivet-extension-pack",
+  "displayName": "spivet extension pack",
+  "description": "vscode extensions package for font-end development",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "github.copilot",
+    "github.copilot-chat",
+    "visualstudioexptteam.vscodeintel",
+    "christian-kohler.path-intellisense", 
+    "EditorConfig.EditorConfig", 
+    "esbenp.prettier-vscode", 
+    "mkxml.vscode-filesize", 
+    "MS-CEINTL.vscode-language-pack-zh-hans", 
+    "eamodio.gitlens", 
+    "wayou.vscode-todo-highlight",
+
+    "antfu.vite",
+
+    "zenclabs.previewjs",
+    "antfu.unocss", 
+
+    "dbaeumer.vscode-eslint", 
+    "stylelint.vscode-stylelint", 
+
+    "dariofuzinato.vue-peek", 
+    "octref.vetur", 
+    "sdras.vue-vscode-snippets", 
+    "Vue.volar", 
+    "Vue.vscode-typescript-vue-plugin", 
+
+    "dsznajder.es7-react-js-snippets"
+  ]
+}
