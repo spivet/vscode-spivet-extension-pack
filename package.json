@@ -3,7 +3,7 @@
   "displayName": "spivet extension pack",
   "description": "vscode extensions package for font-end development",
   "publisher": "Mcbai",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.83.0"
   },
@@ -29,8 +29,8 @@
     "MS-CEINTL.vscode-language-pack-zh-hans", 
     "eamodio.gitlens", 
     "wayou.vscode-todo-highlight",
-
-    "zenclabs.previewjs",
+    
+    "wallabyjs.console-ninja",
     "antfu.unocss", 
 
     "dbaeumer.vscode-eslint", 
