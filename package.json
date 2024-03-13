@@ -3,7 +3,7 @@
   "displayName": "spivet extension pack",
   "description": "vscode extensions package for font-end development",
   "publisher": "Mcbai",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.83.0"
   },
@@ -31,7 +31,8 @@
     "wayou.vscode-todo-highlight",
     
     "wallabyjs.console-ninja",
-    "antfu.unocss", 
+    "antfu.unocss",
+    "formulahendry.auto-rename-tag",
 
     "dbaeumer.vscode-eslint", 
     "stylelint.vscode-stylelint", 
@@ -39,7 +40,6 @@
     "dariofuzinato.vue-peek", 
     "sdras.vue-vscode-snippets", 
     "Vue.volar", 
-    "Vue.vscode-typescript-vue-plugin", 
 
     "dsznajder.es7-react-js-snippets"
   ]
