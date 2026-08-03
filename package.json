@@ -3,7 +3,7 @@
   "displayName": "spivet extension pack",
   "description": "vscode extensions package for font-end development",
   "publisher": "Mcbai",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "engines": {
     "vscode": "^1.83.0"
   },
